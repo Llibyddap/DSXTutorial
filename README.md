@@ -1,4 +1,9 @@
 # DSXTutorial
+
+## NYS Restaurant Data Set
+
+Includes:  NYRestaurantsNotebook_Full & DSXTutorial
+
 IBM Watson - NYS Violations (updated to py3.5 with data asset connection)
 
 The code for NYRestaurantsNotebook_Full pulls from a static repository (open source).  The second workbook, DSXTutorial, pulls
@@ -15,3 +20,12 @@ Original Tutorial can be found here:
 
 https://developer.ibm.com/clouddataservices/wp-content/uploads/sites/85/2016/11/DSXTutorial.pdf
 
+## NYC Taxi Data Set
+
+Includes: NYC_Taxi_KMeans
+
+IBM Watson - NYC Taxi (converted to py3.5 from Scala with updated data set from NYC)
+
+The original expample/tutorial was written in Scala - I've rewriten into python 3.5.
+
+Ongoing project
